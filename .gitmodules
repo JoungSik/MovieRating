@@ -1,0 +1,3 @@
+[submodule "crawler"]
+	path = crawler
+	url = git@github.com:JoungSik/MovieRating_crawler.git
